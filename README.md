@@ -1,2 +1,2 @@
 # microprocessor
-These are the scripts for microprocessor in NCTU
+These are all projects and for microprocessor in NCTU 107 academic year.
